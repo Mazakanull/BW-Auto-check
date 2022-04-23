@@ -32,7 +32,7 @@
 - 支持使用配置文件读取账户信息，支持多机场多用户签到
 - 支持一日多次签到
 - 支持推送签到信息到 QQ、微信和 Telegram
-- 若有 bug 请到 [Issues](https://github.com/isecret/sspanel-autocheckin/issues/new) 反馈
+- 若有 bug 请到 [Issues](https://github.com/isecret/sspanel-autocheckin/issues/new) 反馈(新增刷新）
 
 ## 升级警告
 
